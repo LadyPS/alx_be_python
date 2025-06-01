@@ -12,5 +12,5 @@ if favorite_animal.lower() == "lion":
 else:
     story += f" It was a {favorite_animal}."
 
-# Step 3: Print the atory
+# Step 3: Print the story
 print(story)
